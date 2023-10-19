@@ -7,7 +7,7 @@
 - Add a badge for it.
 - Fail one of them and check the badges.
 
-![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
+
 
 
 [![Java CI](https://github.com/CODERS-BAY/aufgabe-8-ci-Riesen95/actions/workflows/ubuntu-run-tests.yml/badge.svg)](https://github.com/CODERS-BAY/aufgabe-8-ci-Riesen95/actions/workflows/ubuntu-run-tests.yml)
