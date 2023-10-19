@@ -24,7 +24,7 @@ public class CalculatorTest {
     @Test
     void testDivide() {
         double result = Calculator.divide(7.2, 2.4);
-        Assertions.assertEquals(3.0, result, 0.0001);
+        Assertions.assertEquals(3.123, result, 0.0001);
     }
 
     /**

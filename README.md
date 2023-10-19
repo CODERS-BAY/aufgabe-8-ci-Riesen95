@@ -11,3 +11,6 @@
 
 
 [![Java CI](https://github.com/CODERS-BAY/aufgabe-8-ci-Riesen95/actions/workflows/ubuntu-run-tests.yml/badge.svg)](https://github.com/CODERS-BAY/aufgabe-8-ci-Riesen95/actions/workflows/ubuntu-run-tests.yml)
+
+
+[![Windows CI](https://github.com/CODERS-BAY/aufgabe-8-ci-Riesen95/actions/workflows/windows-run-tests.yml/badge.svg)](https://github.com/CODERS-BAY/aufgabe-8-ci-Riesen95/actions/workflows/windows-run-tests.yml)
